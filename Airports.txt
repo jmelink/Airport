@@ -1,0 +1,6 @@
+John Glenn Columbus International Airport,CMH,39.9999,82.8872,248,4,8
+John F Kennedy International Airport,JFK,40.6446,73.7797,4,8,20
+Los Angeles International Airport,LAX,33.9422,118.4036,128,6,14
+Denver International Airport,DEN,39.8563,104.6764,5430,5,9
+Miami International Airport,MIA,25.7923,80.2823,10,6,12
+Invalid Airport,INV,,,,1,2
