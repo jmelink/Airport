@@ -39,7 +39,7 @@ public class Main {
 		List<Airplane> airplanes = new ArrayList<>();
 		
 		// Read airport details from file
-		File airportsFile = new File("Airports.txt");
+		File airportsFile = new File("src/main/resources/Airports.txt");
 		
 		List<String> airportDetails = new ArrayList<>();
 		
